@@ -1,0 +1,16 @@
+# Binaries and executables
+osSimulator
+desktopGUI
+installed_apps/
+bin/
+
+# Temporary and data files
+stats.txt
+process_registry.txt
+autosave.txt
+storage/
+.vscode/
+
+# Build artifacts
+*.o
+*.out
